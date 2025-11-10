@@ -1,0 +1,51 @@
+Sandbox_EN = {
+	Sandbox_MW_MetalworkingSpawnChance = "Spawn chance of a Metalworking Zombie",
+	Sandbox_MW_MetalworkingSpawnChance_tooltip = "Sets the spawn rate for the new metalworking zombies, higher number = more frequent",
+	
+	Sandbox_MW_BlowTorchChance = "Spawn Chances of Welding Torch",
+	Sandbox_MW_BlowTorchChance_tooltip = "Welding Torches, will only spawn once and will not contribute towards the total of Items to Spawn. Determine the weight/Rarity for Welding Torches (0 = never spawns)",
+	
+	Sandbox_MW_SheetMetalChance = "Sheet Metal Spawn Chance",
+	Sandbox_MW_SheetMetalChance_tooltip = "Weight/Rarity for sheet metal (0 = never spawns)",
+
+	Sandbox_MW_CopperSheetChance = "Copper Sheet Spawn Chance",
+	Sandbox_MW_CopperSheetChance_tooltip = "Weight/Rarity for copper sheet (0 = never spawns)",
+	
+	Sandbox_MW_SmallSheetMetalChance = "Small Sheet Metal Spawn Chance",
+	Sandbox_MW_SmallSheetMetalChance_tooltip = "Weight/Rarity for Small Sheet Metal (0 = never spawns)",
+	
+	Sandbox_MW_SmallCopperSheetChance = "Small Copper Sheet Spawn Chance",
+	Sandbox_MW_SmallCopperSheetChance_tooltip = "Weight/Rarity for Small Copper Sheet (0 = never spawns)",
+	
+	Sandbox_MW_SteelScrapChance = "Steel Scrap Spawn Chance",
+	Sandbox_MW_SteelScrapChance_tooltip = "Weight/Rarity for Steel Scrap (0 = never spawns)",
+
+	Sandbox_MW_ScrapMetalChance = "Scrap Metal Spawn Chance",
+	Sandbox_MW_ScrapMetalChance_tooltip = "Weight/Rarity for scrap metal (0 = never spawns)",
+	
+	Sandbox_MW_IronScrapChance = "Iron Scrap Spawn Chance",
+	Sandbox_MW_IronScrapChance_tooltip = "Weight/Rarity for Iron Scrap (0 = never spawns)",
+
+	Sandbox_MW_AluminumScrapChance = "Aluminum Scrap Spawn Chance",
+	Sandbox_MW_AluminumScrapChance_tooltip = "Weight/Rarity for Aluminum Scrap (0 = never spawns)",
+
+	Sandbox_MW_CopperScrapChance = "Copper Scrap Spawn Chance",
+	Sandbox_MW_CopperScrapChance_tooltip = "Weight/Rarity for Copper Scrap (0 = never spawns)",
+
+	Sandbox_MW_UnusableMetalChance = "Unusable Metal Spawn Chance",
+	Sandbox_MW_UnusableMetalChance_tooltip = "Weight/Rarity for Unusable Metal (0 = never spawns)",
+
+	Sandbox_MW_IronBarChance = "Iron Bar Spawn Chance",
+	Sandbox_MW_IronBarChance_tooltip = "Weight/Rarity for Iron bar (0 = never spawns)",
+	
+	Sandbox_MW_MetalBarChance = "Iron Bar Spawn Chance",
+	Sandbox_MW_MetalBarChance_tooltip = "Weight/Rarity for Iron bar (0 = never spawns)",
+	
+	Sandbox_MW_WeldingRodsChance = "Welding Rods Spawn Chance",
+	Sandbox_MW_WeldingRodsChance_tooltip = "Weight/Rarity for Welding Rods (0 = never spawns)",
+
+	Sandbox_MW_ItemRolls = "Number of Items to Spawn",
+	Sandbox_MW_ItemRolls_tooltip = "How many items the zombie drops (1-30),
+	
+	Sandbox_MW = "Metalworking Zombies",
+}

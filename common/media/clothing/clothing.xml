@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<outfitManager>
+
+	<m_FemaleOutfits>
+		<m_Name>MW_MetalworkingZombie</m_Name>
+		<m_Guid>a591d7b1-8af6-4e21-80a7-5e2cc533e04f</m_Guid>
+		<m_AllowPantsHue>false</m_AllowPantsHue>
+		<m_items>
+			<itemGUID>ebea15c8-99b3-4e20-905b-d22cf82b8217</itemGUID> <!-- Socks-->
+		</m_items>
+		<m_items>
+			<itemGUID>6fed6e2b-3a72-4bac-aac5-09585984493d</itemGUID> <!-- Shoes-->
+			<subItems>
+				<itemGUID>fb7e0ff8-73e5-4344-8942-8cc097ebeeb9</itemGUID> <!-- Rubber Boots-->
+			</subItems>
+			<subItems>
+				<itemGUID>227cb2d5-05a5-44ed-872d-ac4ca16e80bc</itemGUID> <!-- Military Shoes -->
+			</subItems>
+		</m_items>
+		<m_items>
+			<itemGUID>559ed514-1d63-497c-a2a0-b7e1ec77f8ef</itemGUID> <!-- Boilersuit -->
+			<subItems>
+				<itemGUID>217d1ff0-d498-4a4e-9a89-08a7e01a42ff</itemGUID> <!-- Boilersuit-Blue Red -->
+			</subItems>
+		</m_items>
+		<m_items>
+			<itemGUID>1d070816-cfec-4d5d-820d-105c514251eb</itemGUID><!--Dust Mask-->
+			<subItems>
+				<itemGUID>22c8fd40-4c25-4e82-9353-f70aa582611a</itemGUID><!-- Balaclava-->
+			</subItems>
+			<subItems>
+				<itemGUID>ab824ec6-ac00-47b3-a613-89d8456e2333</itemGUID><!-- Half-Mask Respirator-->
+			</subItems>
+			<subItems>
+				<itemGUID>1bd52396-c99d-440a-8f2d-7808ce1cdd57</itemGUID><!-- Welder Mask-->
+			</subItems>
+			<subItems>
+				<itemGUID>92efbe27-baa3-4e7f-bc7c-cb4713d23c14</itemGUID><!-- Gas Mask-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<itemGUID>c05cf7a7-f704-43ce-a6bf-5eee59d96a5c</itemGUID> <!-- Safety-Goggles-->
+		</m_items>
+		<m_items>
+			<probability>0.4</probability>
+			<itemGUID>ad6b1b95-a4ea-4a59-8a9e-997053b502f9</itemGUID> <!-- Ear-muff protectors-->
+		</m_items>
+		<m_items>
+			<probability>0.8</probability>
+			<itemGUID>2b0756ac-57f3-415e-bfed-24b28d1ca4d6</itemGUID><!-- Leather Gloves-->
+			<subItems>
+				<itemGUID>096acc98-7ac1-4867-82dd-af77afb6a87b</itemGUID><!-- Leather Gloves Black-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<itemGUID>0eb60cd5-ed6a-4806-ac60-376c77af64cf</itemGUID> <!-- Hiking Bag-->
+			<subItems>	
+				<itemGUID>d1146e1e-1e80-4344-bfe0-2be1e93e022c</itemGUID> <!-- Big Hiking Bag-->
+			</subItems>	
+			<subItems>	
+				<itemGUID>d1859d8a-1857-4854-9f24-30affdbade34</itemGUID> <!-- Duffel Bag-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<probability>0.8</probability>
+			<itemGUID>5fc22466-2942-4ba1-8c33-2a8528b73021</itemGUID><!-- Watch Classic Black-->
+			<subItems>
+				<itemGUID>ce1a8520-7120-432e-8a3a-aa7b3094f0bb</itemGUID><!-- Watch Classic Brown-->
+			</subItems>
+			<subItems>
+				<itemGUID>c7cc655b-284a-4087-85a6-d7c116385fb0</itemGUID><!-- Watch Digital Black-->
+			</subItems>
+			<subItems>
+				<itemGUID>0383956a-3fbd-4001-9749-69e2ba70b134</itemGUID><!-- Watch Digital Red-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<probability>0.6</probability>
+			<itemGUID>6694b783-fe61-410b-b0d1-1160d4b5512e</itemGUID><!-- Left Scrap-Metal Thigh Armor-->
+		</m_items>
+		<m_items>
+			<probability>0.6</probability>
+			<itemGUID>f8619357-26b8-4cee-81ee-a995af088d05</itemGUID><!-- Right Scrap-Metal Thigh Armor-->
+		</m_items>
+		<m_items>
+			<probability>0.6</probability>
+			<itemGUID>a243dd83-5645-4324-b262-2b757e48a9fe</itemGUID><!-- Right Scrap-Metal Forearm Armor-->
+		</m_items>
+		<m_items>
+			<probability>0.6</probability>
+			<itemGUID>49481bc4-0ba0-45e3-b1ff-bc515adcce70</itemGUID><!-- Left Scrap-Metal Forearm Armor-->
+		</m_items>
+	</m_FemaleOutfits>
+	<m_MaleOutfits>
+		<m_Name>MW_MetalworkingZombie</m_Name>
+		<m_Guid>9a6a55cd-17f1-4409-8216-094f5b96c57e</m_Guid>
+		<m_AllowPantsHue>false</m_AllowPantsHue>
+		<m_items>
+			<itemGUID>ebea15c8-99b3-4e20-905b-d22cf82b8217</itemGUID> <!-- Socks-->
+		</m_items>
+		<m_items>
+			<itemGUID>6fed6e2b-3a72-4bac-aac5-09585984493d</itemGUID> <!-- Shoes-->
+			<subItems>
+				<itemGUID>fb7e0ff8-73e5-4344-8942-8cc097ebeeb9</itemGUID> <!-- Rubber Boots-->
+			</subItems>
+			<subItems>
+				<itemGUID>227cb2d5-05a5-44ed-872d-ac4ca16e80bc</itemGUID> <!-- Military Shoes -->
+			</subItems>
+		</m_items>
+		<m_items>
+			<itemGUID>1d070816-cfec-4d5d-820d-105c514251eb</itemGUID><!--Dust Mask-->
+			<subItems>
+				<itemGUID>22c8fd40-4c25-4e82-9353-f70aa582611a</itemGUID><!-- Balaclava-->
+			</subItems>
+			<subItems>
+				<itemGUID>ab824ec6-ac00-47b3-a613-89d8456e2333</itemGUID><!-- Half-Mask Respirator-->
+			</subItems>
+			<subItems>
+				<itemGUID>1bd52396-c99d-440a-8f2d-7808ce1cdd57</itemGUID><!-- Welder Mask-->
+			</subItems>
+			<subItems>
+				<itemGUID>92efbe27-baa3-4e7f-bc7c-cb4713d23c14</itemGUID><!-- Gas Mask-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<itemGUID>c05cf7a7-f704-43ce-a6bf-5eee59d96a5c</itemGUID> <!-- Safety-Goggles-->
+		</m_items>
+		<m_items>
+			<probability>0.8</probability>
+			<itemGUID>2b0756ac-57f3-415e-bfed-24b28d1ca4d6</itemGUID><!-- Leather Gloves-->
+			<subItems>
+				<itemGUID>096acc98-7ac1-4867-82dd-af77afb6a87b</itemGUID><!-- Leather Gloves Black-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<itemGUID>0eb60cd5-ed6a-4806-ac60-376c77af64cf</itemGUID> <!-- Hiking Bag-->
+			<subItems>	
+				<itemGUID>d1146e1e-1e80-4344-bfe0-2be1e93e022c</itemGUID> <!-- Big Hiking Bag-->
+			</subItems>	
+			<subItems>	
+				<itemGUID>d1859d8a-1857-4854-9f24-30affdbade34</itemGUID> <!-- Duffel Bag-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<probability>0.8</probability>
+			<itemGUID>5fc22466-2942-4ba1-8c33-2a8528b73021</itemGUID><!-- Watch Classic Black-->
+			<subItems>
+				<itemGUID>ce1a8520-7120-432e-8a3a-aa7b3094f0bb</itemGUID><!-- Watch Classic Brown-->
+			</subItems>
+			<subItems>
+				<itemGUID>c7cc655b-284a-4087-85a6-d7c116385fb0</itemGUID><!-- Watch Digital Black-->
+			</subItems>
+			<subItems>
+				<itemGUID>0383956a-3fbd-4001-9749-69e2ba70b134</itemGUID><!-- Watch Digital Red-->
+			</subItems>
+		</m_items>
+		<m_items>
+			<probability>0.6</probability>
+			<itemGUID>6694b783-fe61-410b-b0d1-1160d4b5512e</itemGUID><!-- Left Scrap-Metal Thigh Armor-->
+		</m_items>
+		<m_items>
+			<probability>0.6</probability>
+			<itemGUID>f8619357-26b8-4cee-81ee-a995af088d05</itemGUID><!-- Right Scrap-Metal Thigh Armor-->
+		</m_items>
+		<m_items>
+			<probability>0.6</probability>
+			<itemGUID>a243dd83-5645-4324-b262-2b757e48a9fe</itemGUID><!-- Right Scrap-Metal Forearm Armor-->
+		</m_items>
+		<m_items>
+			<probability>0.6</probability>
+			<itemGUID>49481bc4-0ba0-45e3-b1ff-bc515adcce70</itemGUID><!-- Left Scrap-Metal Forearm Armor-->
+		</m_items>
+	</m_MaleOutfits>
+	
+</outfitManager>

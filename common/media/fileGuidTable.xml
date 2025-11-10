@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileGuidTable>
+	<!-- VANILLA ITEMS -->
+	<files>
+		<path>media/clothing/clothingItems/Socks_Ankle.xml</path> 
+		<guid>ebea15c8-99b3-4e20-905b-d22cf82b8217</guid>
+	</files>
+
+	<!-- Shoes -->
+	<files>
+		<path>media/clothing/clothingItems/Shoes_TrainerTINT.xml</path>
+		<guid>6fed6e2b-3a72-4bac-aac5-09585984493d</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Shoes_Wellies.xml</path>
+		<guid>fb7e0ff8-73e5-4344-8942-8cc097ebeeb9</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Shoes_ArmyBoots.xml</path>
+		<guid>227cb2d5-05a5-44ed-872d-ac4ca16e80bc</guid>
+	</files>
+
+	<!-- Boilersuits -->
+	<files>
+		<path>media/clothing/clothingItems/Boilersuit.xml</path>
+		<guid>559ed514-1d63-497c-a2a0-b7e1ec77f8ef</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Boilersuit_BlueRed.xml</path>
+		<guid>217d1ff0-d498-4a4e-9a89-08a7e01a42ff</guid>
+	</files>
+
+	<!-- Mask Slot -->
+	<files>
+		<path>media/clothing/clothingItems/Hat_DustMask.xml</path>
+		<guid>1d070816-cfec-4d5d-820d-105c514251eb</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Hat_BalaclavaFull.xml</path>
+		<guid>22c8fd40-4c25-4e82-9353-f70aa582611a</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Hat_BuildersRespirator.xml</path>
+		<guid>ab824ec6-ac00-47b3-a613-89d8456e2333</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Hat_WeldersMask.xml</path>
+		<guid>1bd52396-c99d-440a-8f2d-7808ce1cdd57</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Hat_GasMask.xml</path>
+		<guid>92efbe27-baa3-4e7f-bc7c-cb4713d23c14</guid>
+	</files>
+
+	<!-- Eye Slot -->
+	<files>
+		<path>media/clothing/clothingItems/Glasses_SafetyGoggles.xml</path>
+		<guid>c05cf7a7-f704-43ce-a6bf-5eee59d96a5c</guid>
+	</files>
+
+	<!-- Ear slot? -->
+	<files>
+		<path>media/clothing/clothingItems/Hat_EarMuff_Protectors.xml</path>
+		<guid>ad6b1b95-a4ea-4a59-8a9e-997053b502f9</guid>
+	</files>
+
+	<!-- Hands slot -->
+	<files>
+		<path>media/clothing/clothingItems/Gloves_LeatherGloves.xml</path>
+		<guid>2b0756ac-57f3-415e-bfed-24b28d1ca4d6</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Gloves_LeatherGlovesBlack.xml</path>
+		<guid>096acc98-7ac1-4867-82dd-af77afb6a87b</guid>
+	</files>
+
+	<!-- Backpack -->
+	<files>
+		<path>media/clothing/clothingItems/Bag_HikingBag.xml</path>
+		<guid>0eb60cd5-ed6a-4806-ac60-376c77af64cf</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Bag_BigHikingBag.xml</path>
+		<guid>d1146e1e-1e80-4344-bfe0-2be1e93e022c</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Bag_DuffelBagTINT.xml</path>
+		<guid>d1859d8a-1857-4854-9f24-30affdbade34</guid>
+	</files>
+
+	<!-- Watches -->
+	<files>
+		<path>media/clothing/clothingItems/WristWatch_Left_ClassicBlack.xml</path>
+		<guid>5fc22466-2942-4ba1-8c33-2a8528b73021</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/WristWatch_Left_ClassicBrown.xml</path>
+		<guid>ce1a8520-7120-432e-8a3a-aa7b3094f0bb</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/WristWatch_Left_DigitalBlack.xml</path>
+		<guid>c7cc655b-284a-4087-85a6-d7c116385fb0</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/WristWatch_Left_DigitalRed.xml</path>
+		<guid>0383956a-3fbd-4001-9749-69e2ba70b134</guid>
+	</files>
+
+	<!-- Armors -->
+	<files>
+		<path>media/clothing/clothingItems/ThighScrapMetal_L.xml</path>
+		<guid>6694b783-fe61-410b-b0d1-1160d4b5512e</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/ThighScrapMetal_R.xml</path>
+		<guid>f8619357-26b8-4cee-81ee-a995af088d05</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/VambraceScrap_Right.xml</path>
+		<guid>a243dd83-5645-4324-b262-2b757e48a9fe</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/VambraceScrap_Left.xml</path>
+		<guid>49481bc4-0ba0-45e3-b1ff-bc515adcce70</guid>
+	</files>
+	<!-- TODO: To include possible custom made items -->
+</fileGuidTable>
+

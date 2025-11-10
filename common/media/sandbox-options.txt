@@ -1,0 +1,145 @@
+VERSION = 1,
+
+option MW.MetalworkingSpawnChance = {
+	type = double,
+	default = 0.1,
+	min = 0.00,
+	max = 100,
+	page = MW,
+	translation = MW_MetalworkingSpawnChance,
+}
+
+option MW.BlowTorchChance = {
+	type = integer,
+	min = 0,
+	max = 100,
+	default = 5,
+	page = MW,
+	translation = MW_BlowTorchChance,
+}
+
+option MW.SheetMetalChance = {
+	type = integer,
+	min = 0,
+	max = 100,
+	default = 20,
+	page = MW,
+	translation = MW_SheetMetalChance,
+}
+
+option MW.CopperSheetChance = {
+	type = integer,
+	min = 0,
+	max = 100,
+	default = 20,
+	page = MW,
+	translation = MW_CopperSheetChance,
+}
+
+option MW.SmallSheetMetalChance = {
+	type = integer,
+	min = 0,
+	max = 100,
+	default = 35,
+	page = MW,
+	translation = MW_SmallSheetMetalChance,
+}
+
+option MW.SmallCopperSheetChance = {
+	type = integer,
+	min = 0,
+	max = 100,
+	default = 35,
+	page = MW,
+	translation = MW_SmallCopperSheetChance,
+}
+
+option MW.SteelScrapChance = {
+	type = integer,
+	min = 0,
+	max = 100,
+	default = 35,
+	page = MW,
+	translation = MW_SteelScrapChance,
+}
+
+option MW.ScrapMetalChance = {
+	type = integer,
+	min = 0,
+	max = 100,
+	default = 35,
+	page = MW,
+	translation = MW_ScrapMetalChance,
+}
+
+option MW.IronScrapChance = {
+	type = integer,
+	min = 0,
+	max = 100,
+	default = 35,
+	page = MW,
+	translation = MW_IronScrapChance,
+}
+
+option MW.AluminumScrapChance = {
+	type = integer,
+	min = 0,
+	max = 100,
+	default = 35,
+	page = MW,
+	translation = MW_AluminumScrapChance,
+}
+
+option MW.CopperScrapChance = {
+	type = integer,
+	min = 0,
+	max = 100,
+	default = 35,
+	page = MW,
+	translation = MW_CopperScrapChance,
+}
+
+option MW.UnusableMetalChance = {
+	type = integer,
+	min = 0,
+	max = 100,
+	default = 35,
+	page = MW,
+	translation = MW_UnusableMetalChance,
+}
+
+option MW.IronBarChance = {
+	type = integer,
+	min = 0,
+	max = 100,
+	default = 25,
+	page = MW,
+	translation = MW_IronBarChance,
+}
+
+option MW.MetalBarChance = {
+	type = integer,
+	min = 0,
+	max = 100,
+	default = 30,
+	page = MW,
+	translation = MW_IronBarChance,
+}
+
+option MW.WeldingRodsChance = {
+	type = integer,
+	min = 0,
+	max = 100,
+	default = 25,
+	page = MW,
+	translation = MW_WeldingRodsChance,
+}
+
+option MW.ItemRolls = {
+	type = integer,
+	min = 0,
+	max = 30,
+	default = 4,
+	page = MW,
+	translation = MW_ItemRolls,
+}

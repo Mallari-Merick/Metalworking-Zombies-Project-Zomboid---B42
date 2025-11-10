@@ -12,6 +12,7 @@ This mod has sandbox options that includes:
 
 * **Required Game Version:** Project Zomboid Build 42 (Specifically tested and updated when the game version was **42.12.3**).
 * **No-known incompatibilities:** There shouldn't be any incompatibilites as it only inserts new types of zomboid to be spawn.
+* **Any Load order:** Highly compatible and load order shouldn't matter.
 ---
 
 ### 💨 Steam Link/Installation
@@ -22,4 +23,6 @@ This mod has sandbox options that includes:
 ### 🛠️ Manual Installation Guide
 
 1.  **Download This Repository:** Download this repository.
-2.  **Navigate to Project Zomboid's non-game directory:** 
+2.  **Navigate to the local Project Zomboid files:** Place the downloaded folder into your local mod directory:
+    > `C:\Users\(Your Username)\Zomboid\mods`
+3. **Enable mod:** In-game, enable the mod.
